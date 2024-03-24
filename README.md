@@ -42,3 +42,8 @@ sudo ln -s /home/user/time-tracker/trackergui.py /usr/bin/timetracker
 * `Start` the counter while you start to work
 * `Stop` the counter during your breaks
 * `Delete` all the data to reset the counter (data will be lost)
+
+### Run the tests
+```
+python3 tracker_test.py
+```
