@@ -36,7 +36,9 @@ sudo ln -s /home/user/time-tracker/trackergui.py /usr/bin/timetracker
 
 ### How to use it
 * Run the `timetracker` program, we should see the graphical interface
-![alt TimeTracker GUI](./images/timetracker.png "Simple TimeTracker GUI)
+
+![alt TimeTracker GUI](./images/timetracker.png "Simple GUI of TimeTracker")
+
 * `Start` the counter while you start to work
 * `Stop` the counter during your breaks
 * `Delete` all the data to reset the counter (data will be lost)
