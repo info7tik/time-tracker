@@ -2,7 +2,7 @@ from datetime import datetime
 import json, os, time
 
 NB_WORKING_HOURS_PER_DAY = 7
-JSON_FILE = "/home/remy/Desktop/time-tracker/timetracker.json"
+JSON_FILE = "/home/remy/Documents/time-tracker/timetracker.json"
 COMMANDS = {
     "help": {"function": "print_usage", "description": "show the help"},
     "start": {"function": "set_start_timestamp", "description": "start the timer"},
